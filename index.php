@@ -13,6 +13,8 @@
 
 <div class="container-fluid">
     <h1 class="text-danger">JF Videography <small class = "text-muted" id = "smallobject">We tell stories</small></h1>
+    <h1>This website is still on development! This is not a final version updates will be made.</h1>
+    <h1>Email: jfvideographystories@gmail.com</h1>
 </div>
 
 </body>
